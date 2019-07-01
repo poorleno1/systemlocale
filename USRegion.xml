@@ -37,10 +37,8 @@
                 <gs:sTimeFormat>HH:mm:ss</gs:sTimeFormat>
 		<gs:sShortTime>HH:mm</gs:sShortTime>
                 <gs:sLongDate>dddd, MMMM yyyy</gs:sLongDate>
-                <gs:iFirstDayOfWeek>0</gs:iFirstDayOfWeek>
-				<gs:iFirstWeekOfYear>2</gs:iFirstWeekOfYear>
-				<gs:iFirstDayOfWeek>0</gs:iFirstDayOfWeek>
-				<gs:iMeasure>0</gs:iMeasure>
+		<gs:iFirstDayOfWeek>0</gs:iFirstDayOfWeek>
+		<gs:iMeasure>0</gs:iMeasure>
             </gs:Win32>
         </gs:Locale>
     </gs:UserLocale>
