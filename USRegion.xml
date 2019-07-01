@@ -5,7 +5,14 @@
 </gs:UserList>
 <!-- user locale -->
 <gs:UserLocale> 
-    <gs:Locale Name="en-US" SetAsCurrent="true"/> 
+    <gs:Locale Name="en-US" SetAsCurrent="true"/>
+		<gs:Win32>
+			<gs:sShortDate>yyyy-MM-dd</gs:sShortDate>
+			<gs:sLongDate>d MMMM, yyyy</gs:sLongDate>
+			<gs:sShortTime>HH:mm</gs:sShortTime>
+			<gs:sLongTime>HH:mm:ss</gs:sLongTime>
+			<gs:iFirstDayOfWeek>6</gs:iFirstDayOfWeek>			
+		</gs:Win32>
 </gs:UserLocale>
 <!-- system locale -->
 <gs:SystemLocale Name="en-US"/>
