@@ -1,1 +1,46 @@
 
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend">
+ 
+<!-- user list --> 
+    <gs:UserList>
+        <gs:User UserID="Current" CopySettingsToDefaultUserAcct="true" CopySettingsToSystemAcct="true"/> 
+    </gs:UserList>
+ 
+    <!-- GeoID -->
+    <gs:LocationPreferences> 
+        <gs:GeoID Value="244"/>
+    </gs:LocationPreferences>
+ 
+    <gs:MUILanguagePreferences>
+        <gs:MUILanguage Value="en-US"/>
+        <gs:MUIFallback Value="en-US"/>
+    </gs:MUILanguagePreferences>
+ 
+    <!-- system locale -->
+    <gs:SystemLocale Name="en-US"/>
+ 
+    <!-- input preferences -->
+    <gs:InputPreferences>
+        <gs:InputLanguageID Action="add" ID="0409:00000409"/>
+        <gs:InputLanguageID Action="remove" ID="0409:00000409"/>
+      </gs:InputPreferences>
+ 
+    <!-- user locale -->
+    <gs:UserLocale>
+        <gs:Locale Name="en-US" SetAsCurrent="true" ResetAllSettings="false">
+		
+            <gs:Win32>
+                <gs:iCalendarType>1</gs:iCalendarType>
+         <gs:iCurrency>3</gs:iCurrency>
+   <gs:iCurrDigits>1</gs:iCurrDigits>
+   <gs:sList>...</gs:sList>
+                <gs:sShortDate>yyyy-MM-dd</gs:sShortDate>
+                <gs:sTimeFormat>HH:mm:ss</gs:sTimeFormat>
+		<gs:sShortTime>HH:mm</gs:sShortTime>
+                <gs:sLongDate>dddd, MMMM yyyy</gs:sLongDate>
+		<gs:iFirstDayOfWeek>0</gs:iFirstDayOfWeek>
+		<gs:iMeasure>0</gs:iMeasure>
+            </gs:Win32>
+        </gs:Locale>
+    </gs:UserLocale>
+ </gs:GlobalizationServices>
