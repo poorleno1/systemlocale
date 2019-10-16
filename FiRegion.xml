@@ -20,10 +20,10 @@
  
     <!-- input preferences -->
     <gs:InputPreferences>
-        <gs:InputLanguageID Action="add" ID="0409:00000409"/>
-        <gs:InputLanguageID Action="remove" ID="0409:00000409"/>
-		<gs:InputLanguageID Action="add" ID="040B:0000040B"/>
+        <gs:InputLanguageID Action="add" ID="040B:0000040B"/>
         <gs:InputLanguageID Action="remove" ID="040B:0000040B"/>
+		<gs:InputLanguageID Action="add" ID="0409:00000409"/>
+        <gs:InputLanguageID Action="remove" ID="0409:00000409"/>
       </gs:InputPreferences>
  
     <!-- user locale -->
