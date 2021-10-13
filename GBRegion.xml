@@ -2,7 +2,7 @@
   <!-- user list -->
   <gs:UserList>
     <gs:User UserID="Current" CopySettingsToDefaultUserAcct="true" CopySettingsToSystemAcct="true" />
-  </gs:GBerList>
+  </gs:UserList>
   <!-- GeoID -->
   <gs:LocationPreferences>
     <gs:GeoID Value="244" />
