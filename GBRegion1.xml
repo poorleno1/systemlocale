@@ -19,7 +19,7 @@
   </gs:InputPreferences>
   <!-- user locale -->
   <gs:UserLocale>
-    <gs:Locale Name="en-GB" SetAsCurrent="true" ResetAllSettings="false">
+    <gs:Locale Name="en-GB" SetAsCurrent="true" ResetAllSettings="true">
       <gs:Win32>
         <gs:iCalendarType>1</gs:iCalendarType>
         <gs:iCurrency>3</gs:iCurrency>
