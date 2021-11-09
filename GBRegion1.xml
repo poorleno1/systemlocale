@@ -14,7 +14,7 @@
   <gs:SystemLocale Name="en-US" />
   <!-- input preferences -->
   <gs:InputPreferences>
-    <gs:InputLanguageID Action="add" ID="0409:00000409" />
+    <gs:InputLanguageID Action="add" ID="0809:00000809" />
     <gs:InputLanguageID Action="remove" ID="0409:00000409" />
   </gs:InputPreferences>
   <!-- user locale -->
