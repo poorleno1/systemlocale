@@ -39,7 +39,7 @@
  <gs:iNegNumber>2</gs:iNegNumber>
  <gs:sNegativeSign>(</gs:sNegativeSign>
  <gs:sPositiveSign>=</gs:sPositiveSign>
- <gs:sCurrency>kr</gs:sCurrency>
+ <gs:sCurrency>pl</gs:sCurrency>
  <gs:sMonDecimalSep>,,</gs:sMonDecimalSep>
  <gs:sMonThousandSep>...</gs:sMonThousandSep>
  <gs:sMonGrouping>3</gs:sMonGrouping>
