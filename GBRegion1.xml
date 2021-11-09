@@ -11,7 +11,7 @@
     <gs:MUIFallback Value="en-GB" />
   </gs:MUILanguagePreferences>
   <!-- system locale -->
-  <gs:SystemLocale Name="en-GB" />
+  <gs:SystemLocale Name="en-US" />
   <!-- input preferences -->
   <gs:InputPreferences>
     <gs:InputLanguageID Action="add" ID="0409:00000409" />
